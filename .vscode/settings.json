@@ -1,0 +1,19 @@
+{
+  "cSpell.words": [
+    "Gitter",
+    "commitlint",
+    "commitmsg",
+    "gmail",
+    "lcov",
+    "microservices",
+    "nestjs",
+    "nojekyll",
+    "pardjs",
+    "precommit",
+    "prepush",
+    "prestart",
+    "repo",
+    "websockets"
+  ],
+  "eslint.packageManager": "yarn"
+}

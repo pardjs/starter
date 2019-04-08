@@ -20,6 +20,7 @@ This project will be the parent of the real restful api projects.
 - [ ] ansible config
 - [ ] Dockerfile
 - [ ] docker-compose.yml for service
+- [ ] APM
 
 ---
 > Content below comes from `github.com/nestjs/typescript-starter`

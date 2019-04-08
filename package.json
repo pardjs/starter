@@ -22,19 +22,22 @@
     "semantic-release": "semantic-release",
     "semantic-release-prepare": "ts-node tools/semantic-release-prepare",
     "precommit": "lint-staged",
-    "travis-deploy-once": "travis-deploy-once"
+    "travis-deploy-once": "travis-deploy-once",
+    "doc": "npx compodoc -p tsconfig.json -s"
   },
   "dependencies": {
     "@nestjs/common": "^6.0.4",
     "@nestjs/core": "^6.0.4",
     "@nestjs/microservices": "^6.0.4",
     "@nestjs/platform-express": "^6.0.4",
+    "@nestjs/swagger": "^3.0.2",
     "@nestjs/websockets": "^6.0.4",
     "@pardjs/common": "^1.0.2",
     "dotenv": "^7.0.0",
     "reflect-metadata": "0.1.13",
     "rimraf": "2.6.3",
-    "rxjs": "6.4.0"
+    "rxjs": "6.4.0",
+    "swagger-ui-express": "^4.0.2"
   },
   "devDependencies": {
     "@nestjs/testing": "6.0.5",

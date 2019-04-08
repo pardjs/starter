@@ -392,3 +392,4 @@ docker-compose.yml
 dist
 logs
 .coveralls.yml
+documentation

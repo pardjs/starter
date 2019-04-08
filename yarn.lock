@@ -5461,6 +5461,18 @@ supports-color@^6.0.0, supports-color@^6.1.0:
   dependencies:
     has-flag "^3.0.0"
 
+swagger-ui-dist@^3.18.1:
+  version "3.22.0"
+  resolved "http://registry.npm.taobao.org/swagger-ui-dist/download/swagger-ui-dist-3.22.0.tgz#9f2417d774f21fac260b1497ead0650dc3e92861"
+  integrity sha1-nyQX13TyH6wmCxSX6tBlDcPpKGE=
+
+swagger-ui-express@^4.0.2:
+  version "4.0.2"
+  resolved "http://registry.npm.taobao.org/swagger-ui-express/download/swagger-ui-express-4.0.2.tgz#8fae60038b990258dc14e07ea3427e93fb621622"
+  integrity sha1-j65gA4uZAljcFOB+o0J+k/tiFiI=
+  dependencies:
+    swagger-ui-dist "^3.18.1"
+
 symbol-observable@^1.1.0:
   version "1.2.0"
   resolved "http://registry.npm.taobao.org/symbol-observable/download/symbol-observable-1.2.0.tgz#c22688aed4eab3cdc2dfeacbb561660560a00804"

@@ -1,3 +1,4 @@
+<!--  -->
 # Pard.js starter
 
 [![Coverage Status](https://coveralls.io/repos/github/pardjs/pardjs-starter/badge.svg)](https://coveralls.io/github/pardjs/pardjs-starter)
@@ -5,8 +6,8 @@
 - [x] Use `@pardjs/common` customized components.
 - [x] Travis CI
 - [x] Test suite
-- [ ] Code linting
-- [ ] Commit regulate.
+- [x] Code linting
+- [x] Commit regulate.
 - [ ] Automated release.
 - [ ] Use `@pardjs/health-check-service`
 - [ ] Use `@pardjs/users-service`
